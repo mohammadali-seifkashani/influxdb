@@ -28,7 +28,7 @@ Replacement `tsi1` indexes will be automatically generated on startup for shards
 1. [19811](https://github.com/influxdata/influxdb/pull/19811): Add Geo graph type to be able to store in Dashboard cells.
 1. [20473](https://github.com/influxdata/influxdb/pull/20473): Add `--overwrite-existing-v2` flag to `influxd upgrade` to overwrite existing files at output paths (instead of aborting).
 1. [20524](https://github.com/influxdata/influxdb/pull/20524): Add `influxd print-config` command to support automated config inspection.
-1. [20467](https://github.com/influxdata/influxdb/pull/20467): Add `influxd inspect export` command to extract DB data in line-protocol format.
+1. [20467](https://github.com/influxdata/influxdb/pull/20467): Add `influxd inspect export-lp` command to extract data in line-protocol format.
 
 ### Bug Fixes
 
